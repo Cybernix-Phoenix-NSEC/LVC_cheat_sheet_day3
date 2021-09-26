@@ -18,7 +18,8 @@ About This repository contains the cheat sheet for the Day 3 session of Git-Lear
 ### :large_blue_diamond:This Markdown cheat sheet provides a quick overview of all the Markdown syntax element:
 <br>
 
-<img src="https://github.com/shweta-laha/experiment/blob/main/Day%203%20Cheatsheet%20(1).gif" width="600" height="540">
+
+<div style="text-align:center"><img src="https://github.com/shweta-laha/experiment/blob/main/DAY%203%20CHEATSHEET%20(2).gif" ></div>
 
 ## 1.Header
 For writing heading, we have to add hashs `#` symbol at the beginning of the line, number of hashes is inversly propotional to the size of the heading. 
