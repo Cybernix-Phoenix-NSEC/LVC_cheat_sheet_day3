@@ -1,7 +1,7 @@
-# :zap: *Write an Awesome and Creative README* :zap:
+# LVC_cheat_sheet_day3
 <br>
 
-## LVC_cheat_sheet_day3
+## :zap: *Write an Awesome and Creative README* :zap:
 About This repository contains the cheat sheet for the Day 3 session of Git-Learning Version Control. Fork it and you are good to go 💻 !<br><br>
 
 :pushpin:
@@ -19,7 +19,7 @@ About This repository contains the cheat sheet for the Day 3 session of Git-Lear
 <br>
 
 
-<div style="text-align:center"><img src="https://github.com/shweta-laha/experiment/blob/main/DAY%203%20CHEATSHEET%20(2).gif" ></div>
+<img src="https://github.com/Cybernix-Phoenix-NSEC/LVC_cheat_sheet_day3/blob/master/DAY%203%20CHEATSHEET%20(2).gif" >
 
 ## 1.Header
 For writing heading, we have to add hashs `#` symbol at the beginning of the line, number of hashes is inversly propotional to the size of the heading. 
@@ -123,7 +123,7 @@ To create a table with headers we need to use dashes to separate each header cel
 
 :point_right: By using HTML tags, we can align README contents.
 
-:point_right: We can include comments inside a .md file. ` <!--Hello! From Team Cybernics--> `
+:point_right: We can include comments inside a .md file. ` <!--Hello! From Team Cybernix--> `
 <br><br><br>
 
 # :sparkles: Happy Learning! :sparkles:
