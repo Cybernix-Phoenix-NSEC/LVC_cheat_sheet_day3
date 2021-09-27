@@ -5,7 +5,7 @@
 About This repository contains the cheat sheet for the Day 3 session of Git-Learning Version Control. Fork it and you are good to go 💻 !<br><br>
 
 :pushpin:
- **M**arkdown is a lightweight markup language for creating formatted text using a plain-text. Markdown is a markup language, it permits us to write using an easy-to-read, easy-to-write plain text format, then, convert it to structurally valid HTML.The syntax is really simple. If you know how to compose a hashtag or make an emoticon, you can use Markdown. 
+ **M**arkdown is a scripting language that is very lightweight. It is used to format plain text to a respective design. Markdowns are rapidly used in content writing in some blog post web sites. It converts some plain text to the desired format in HTML. The simplicity and easy to understand is making the markdown more popular. It takes all the text from the markdown file and converts to HTML through a markdown app.If you know how to compose a hashtag or make an emoticon, you can use Markdown. 
 <br><br> 
 
 ## Why Markdown is important :interrobang:
@@ -15,11 +15,9 @@ About This repository contains the cheat sheet for the Day 3 session of Git-Lear
 :heavy_check_mark: Lets you focus on important things and increases productivity.<br>
 :heavy_check_mark: Converts plain text into HTML.<br>
 <br>
-### :large_blue_diamond:This Markdown cheat sheet provides a quick overview of all the Markdown syntax element:
-<br>
-
-
 <img src="https://github.com/Cybernix-Phoenix-NSEC/LVC_cheat_sheet_day3/blob/master/DAY%203%20CHEATSHEET%20(2).gif" >
+<br><br>
+### :large_blue_diamond:This Markdown cheat sheet provides a quick overview of all the Markdown syntax element:
 
 ## 1.Header
 For writing heading, we have to add hashs `#` symbol at the beginning of the line, number of hashes is inversly propotional to the size of the heading. 
@@ -55,7 +53,7 @@ To create blockquote, we can use the greater than sign `> `. We can create a sin
 ````
 
 ## 5.Ordered List
-To create an ordered list , we uses numbers and alphabets.
+To create an ordered list , we can use numbers and alphabets.
 ```
 1. Red
 2. Green
@@ -64,7 +62,7 @@ To create an ordered list , we uses numbers and alphabets.
 ```
 
 ## 6. Unordered List
-To create an unordered list, we can asterisk, plus, or minus sign.
+To create an unordered list, we can use asterisk, plus, or minus sign.
 ```
 - Red
 - Green
@@ -101,7 +99,7 @@ We can add images using the similar techniques we used for links. Also, we can u
 To create a table with headers we need to use dashes to separate each header cell and use pipes to separate columns. The outer pipes are optional.We can use any number of dashes and spaces to increase readability. We can use colons to align columns. 
 - For left-align text, use a colon to the left of dashes. 
 - For center-align text, use a colon on both sides of dashes. 
-- For right-align text, use a colon to the right of dashes.
+- For right-align text, use a colon to the right of dashes.<br>
 *By default Left align is used.*
 ````
 | Default    | Left align | Center align | Right align |
