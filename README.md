@@ -1,8 +1,8 @@
-# LVC_cheat_sheet_day3
+# Git-Learning Version Control Cheatsheet Day-3
 <br>
+This repository contains the cheat sheet for the Day 3 session of Git-Learning Version Control. Fork it and you are good to go 💻 !<br><br>
 
 ## :zap: *Write an Awesome and Creative README* :zap:
-About This repository contains the cheat sheet for the Day 3 session of Git-Learning Version Control. Fork it and you are good to go 💻 !<br><br>
 
 :pushpin:
  **M**arkdown is a scripting language that is very lightweight. It is used to format plain text to a respective design. Markdowns are rapidly used in content writing in some blog post web sites. It converts some plain text to the desired format in HTML. The simplicity and easy to understand is making the markdown more popular. It takes all the text from the markdown file and converts to HTML through a markdown app.If you know how to compose a hashtag or make an emoticon, you can use Markdown. 
